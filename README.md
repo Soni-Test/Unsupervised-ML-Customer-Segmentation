@@ -1,7 +1,7 @@
 # Unsupervised ML Customer Segmentation
 
 <p align="center">
-  <img width="600" height="300" src="https://user-images.githubusercontent.com/107030716/206486513-625b903a-22ef-4478-9e96-9aba052b41ef.png">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/107030716/206497139-2238c744-2f7e-4a37-a6cb-91beefb4f387.png">
 </p>
 
 
@@ -25,7 +25,7 @@ The RFM model is quite useful model in retail customer segmentation where only t
 Recency – How recently did the customer purchase? </br> Frequency – How often do they purchase? </br> Monetary Value – How much do they spend? </br> A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer.
 
 
-### Model used for analysis 
+## Model used for analysis 
 
 * K-Means Clustering 
 * DBSCAN Clustering 
@@ -34,7 +34,7 @@ Recency – How recently did the customer purchase? </br> Frequency – How ofte
 
 
 
-<b>Team Members</b></br>
+## <b>Team Members</b></br>
 Sonica Sinha </br>
 Mohd Taufique </br>
 
