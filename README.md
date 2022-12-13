@@ -14,9 +14,10 @@ In this project, your task is to identify major customer segments on a transnati
 
 - Data Cleaning </br>
 - Exploratory Data Analysis (EDA) </br>
-- Data Transformation </br>
+- RFM </br>
 - Clustering </br>
 - Cluster Profiling </br>
+- Conclusion </br>
 
 ## **Recency-Frequency-Monetary (RFM) model to determine customer value:**
 
