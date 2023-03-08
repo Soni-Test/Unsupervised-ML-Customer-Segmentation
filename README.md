@@ -23,7 +23,11 @@ In this project, your task is to identify major customer segments on a transnati
 
 The RFM model is quite useful model in retail customer segmentation where only the data of customer transaction is available. RFM stands for the three dimensions:
 
-Recency – How recently did the customer purchase? - Number of days since last purchase </br> Frequency – How often do they purchase? - The total number of purchases </br> Monetary Value – How much do they spend? - The total money customer spent </br> A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer.
+Recency – How recently did the customer purchase? - Number of days since last purchase </br> Frequency – How often do they purchase? - The total number of purchases </br> Monetary Value – How much do they spend? - The total money customer spent </br> A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer. </br> 
+
+<p align="center">
+   <img width="600" height="300" src="https://user-images.githubusercontent.com/107030716/223782534-02366311-4d4e-4bd2-b045-2fa6359d7f13.png">
+</p>
 
 
 ## Model used for analysis 
@@ -36,11 +40,15 @@ Recency – How recently did the customer purchase? - Number of days since last 
   - Agglomerative Clustering (Bottom-up approach using tree like diagram called Dendogram)
 
 
+## Conclusion
 
+* RFM(Recency, Frequency and Monetary) dataframe ease our problem to solve in a particular order, it makes easy to recommend and display new launched products to few customers.
+* And total number clusters for each of the used models came 2. 
 
 ## <b>Team Members</b></br>
 Sonica Sinha </br>
-Mohd Taufique </br>
+[Mohd Taufique](https://github.com/mohdtaufique06) </br>
+
 
 
 
