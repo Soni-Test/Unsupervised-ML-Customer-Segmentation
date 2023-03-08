@@ -23,14 +23,17 @@ In this project, your task is to identify major customer segments on a transnati
 
 The RFM model is quite useful model in retail customer segmentation where only the data of customer transaction is available. RFM stands for the three dimensions:
 
-Recency – How recently did the customer purchase? </br> Frequency – How often do they purchase? </br> Monetary Value – How much do they spend? </br> A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer.
+Recency – How recently did the customer purchase? - Number of days since last purchase </br> Frequency – How often do they purchase? - The total number of purchases </br> Monetary Value – How much do they spend? - The total money customer spent </br> A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer.
 
 
 ## Model used for analysis 
 
-* K-Means Clustering 
+* K-Means Clustering</br>
+  - Silhouette Analysis
+  - Elbow Method
 * DBSCAN Clustering 
-* Hierarchical Clustering 
+* Hierarchical Clustering </br>
+  - Agglomerative Clustering (Bottom-up approach using tree like diagram called Dendogram)
 
 
 
