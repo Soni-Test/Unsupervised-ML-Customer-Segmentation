@@ -45,9 +45,9 @@ Recency – How recently did the customer purchase? - Number of days since last 
 * RFM(Recency, Frequency and Monetary) dataframe ease our problem to solve in a particular order, it makes easy to recommend and display new launched products to few customers.
 * And total number clusters for each of the used models came 2. 
 
-## <b>Team Members</b></br>
+
 Sonica Sinha </br>
-[Mohd Taufique](https://github.com/mohdtaufique06) </br>
+
 
 
 
